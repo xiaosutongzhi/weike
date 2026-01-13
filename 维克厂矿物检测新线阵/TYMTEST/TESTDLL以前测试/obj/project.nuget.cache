@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ic1xAxR5fQs=",
+  "success": true,
+  "projectFilePath": "E:\\Desktop\\项目\\1.维克\\矿物检测\\TYMTEST\\TESTDLL\\TESTDLL.csproj",
+  "expectedPackageFiles": [
+    "D:\\LocalCache\\nuget\\packages\\microsoft.win32.systemevents\\9.0.6\\microsoft.win32.systemevents.9.0.6.nupkg.sha512",
+    "D:\\LocalCache\\nuget\\packages\\system.drawing.common\\9.0.6\\system.drawing.common.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

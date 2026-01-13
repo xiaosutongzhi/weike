@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90CFD0FB-F253-4D13-8572-81E173384775}|TESTDLL\\TESTDLL.csproj|e:\\desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\tymtest\\testdll\\tymdll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CFD0FB-F253-4D13-8572-81E173384775}|TESTDLL\\TESTDLL.csproj|solutionrelative:testdll\\tymdll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CFD0FB-F253-4D13-8572-81E173384775}|TESTDLL\\TESTDLL.csproj|e:\\desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\tymtest\\testdll\\tymscandaq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CFD0FB-F253-4D13-8572-81E173384775}|TESTDLL\\TESTDLL.csproj|solutionrelative:testdll\\tymscandaq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B6815A-89F2-4242-8AC6-F31224B4F014}|TYMTEST\\TYMTEST.csproj|e:\\desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\tymtest\\tymtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B6815A-89F2-4242-8AC6-F31224B4F014}|TYMTEST\\TYMTEST.csproj|solutionrelative:tymtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B6815A-89F2-4242-8AC6-F31224B4F014}|TYMTEST\\TYMTEST.csproj|e:\\desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\tymtest\\tymtest\\tymscandaq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B6815A-89F2-4242-8AC6-F31224B4F014}|TYMTEST\\TYMTEST.csproj|solutionrelative:tymtest\\tymscandaq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B6815A-89F2-4242-8AC6-F31224B4F014}|TYMTEST\\TYMTEST.csproj|e:\\desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\tymtest\\tymtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B6815A-89F2-4242-8AC6-F31224B4F014}|TYMTEST\\TYMTEST.csproj|solutionrelative:tymtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CFD0FB-F253-4D13-8572-81E173384775}|TESTDLL\\TESTDLL.csproj|e:\\desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\tymtest\\testdll\\tymdatabuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CFD0FB-F253-4D13-8572-81E173384775}|TESTDLL\\TESTDLL.csproj|solutionrelative:testdll\\tymdatabuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CFD0FB-F253-4D13-8572-81E173384775}|TESTDLL\\TESTDLL.csproj|e:\\desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\tymtest\\testdll\\tymdll8bit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CFD0FB-F253-4D13-8572-81E173384775}|TESTDLL\\TESTDLL.csproj|solutionrelative:testdll\\tymdll8bit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CFD0FB-F253-4D13-8572-81E173384775}|TESTDLL\\TESTDLL.csproj|e:\\desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\tymtest\\testdll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CFD0FB-F253-4D13-8572-81E173384775}|TESTDLL\\TESTDLL.csproj|solutionrelative:testdll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CFD0FB-F253-4D13-8572-81E173384775}|TESTDLL\\TESTDLL.csproj|e:\\desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\tymtest\\testdll\\tymcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CFD0FB-F253-4D13-8572-81E173384775}|TESTDLL\\TESTDLL.csproj|solutionrelative:testdll\\tymcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TYMTEST\\Form1.cs",
+              "RelativeDocumentMoniker": "TYMTEST\\Form1.cs",
+              "ToolTip": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TYMTEST\\Form1.cs",
+              "RelativeToolTip": "TYMTEST\\Form1.cs",
+              "ViewState": "AgIAAMMCAAAAAAAAAAAAANMCAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T07:10:13.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tymscandaq.cs",
+              "DocumentMoniker": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TESTDLL\\tymscandaq.cs",
+              "RelativeDocumentMoniker": "TESTDLL\\tymscandaq.cs",
+              "ToolTip": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TESTDLL\\tymscandaq.cs",
+              "RelativeToolTip": "TESTDLL\\tymscandaq.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAqwMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T07:43:47.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tymscandaq.cs",
+              "DocumentMoniker": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TYMTEST\\tymscandaq.cs",
+              "RelativeDocumentMoniker": "TYMTEST\\tymscandaq.cs",
+              "ToolTip": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TYMTEST\\tymscandaq.cs",
+              "RelativeToolTip": "TYMTEST\\tymscandaq.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAASwMcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T07:10:17.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tymdatabuffer.cs",
+              "DocumentMoniker": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TESTDLL\\tymdatabuffer.cs",
+              "RelativeDocumentMoniker": "TESTDLL\\tymdatabuffer.cs",
+              "ToolTip": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TESTDLL\\tymdatabuffer.cs",
+              "RelativeToolTip": "TESTDLL\\tymdatabuffer.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAqwH8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T07:05:41.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TYMTEST\\Program.cs",
+              "RelativeDocumentMoniker": "TYMTEST\\Program.cs",
+              "ToolTip": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TYMTEST\\Program.cs",
+              "RelativeToolTip": "TYMTEST\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:28:41.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TYMDLL8bit.cs",
+              "DocumentMoniker": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TESTDLL\\TYMDLL8bit.cs",
+              "RelativeDocumentMoniker": "TESTDLL\\TYMDLL8bit.cs",
+              "ToolTip": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TESTDLL\\TYMDLL8bit.cs",
+              "RelativeToolTip": "TESTDLL\\TYMDLL8bit.cs",
+              "ViewState": "AgIAABwEAAAAAAAAAAAAABwEAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:12:59.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TYMDLL.cs",
+              "DocumentMoniker": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TESTDLL\\TYMDLL.cs",
+              "RelativeDocumentMoniker": "TESTDLL\\TYMDLL.cs",
+              "ToolTip": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TESTDLL\\TYMDLL.cs",
+              "RelativeToolTip": "TESTDLL\\TYMDLL.cs",
+              "ViewState": "AgIAAC8BAAAAAAAAAAAkwD8BAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:12:11.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TYMCard.cs",
+              "DocumentMoniker": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TESTDLL\\TYMCard.cs",
+              "RelativeDocumentMoniker": "TESTDLL\\TYMCard.cs",
+              "ToolTip": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TESTDLL\\TYMCard.cs",
+              "RelativeToolTip": "TESTDLL\\TYMCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:12:10.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TESTDLL\\Program.cs",
+              "RelativeDocumentMoniker": "TESTDLL\\Program.cs",
+              "ToolTip": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TESTDLL\\Program.cs",
+              "RelativeToolTip": "TESTDLL\\Program.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAAAPcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:25:30.919Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

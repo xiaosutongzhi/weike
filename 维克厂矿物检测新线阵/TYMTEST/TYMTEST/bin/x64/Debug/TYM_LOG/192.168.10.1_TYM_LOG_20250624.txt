@@ -1,0 +1,3 @@
+2025-06-24 12:38:40      Connection Timeout:Communication with the data acquisition board timed out!   CmdID: c0
+2025-06-24 12:38:43      Connection Timeout:Communication with the data acquisition board timed out!   CmdID: c0
+2025-06-24 12:38:46      Connection Timeout:Communication with the data acquisition board timed out!   CmdID: c0

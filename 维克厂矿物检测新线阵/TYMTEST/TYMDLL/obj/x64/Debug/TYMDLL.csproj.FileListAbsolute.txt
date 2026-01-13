@@ -1,0 +1,6 @@
+D:\suWork\TYMTEST\TYMDLL\obj\x64\Debug\TYMDLL.csproj.AssemblyReference.cache
+D:\suWork\TYMTEST\TYMDLL\obj\x64\Debug\TYMDLL.csproj.CoreCompileInputs.cache
+D:\suWork\TYMTEST\TYMDLL\bin\x64\Debug\TYMDLL.dll
+D:\suWork\TYMTEST\TYMDLL\bin\x64\Debug\TYMDLL.pdb
+D:\suWork\TYMTEST\TYMDLL\obj\x64\Debug\TYMDLL.dll
+D:\suWork\TYMTEST\TYMDLL\obj\x64\Debug\TYMDLL.pdb

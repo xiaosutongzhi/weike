@@ -1,0 +1,14 @@
+E:\Desktop\项目\1.维克\矿物检测\TYMTEST\TESTDLL\obj\Debug\net8.0\TESTDLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\项目\1.维克\矿物检测\TYMTEST\TESTDLL\obj\Debug\net8.0\TESTDLL.AssemblyInfoInputs.cache
+E:\Desktop\项目\1.维克\矿物检测\TYMTEST\TESTDLL\obj\Debug\net8.0\TESTDLL.AssemblyInfo.cs
+E:\Desktop\项目\1.维克\矿物检测\TYMTEST\TESTDLL\obj\Debug\net8.0\TESTDLL.csproj.CoreCompileInputs.cache
+E:\Desktop\项目\1.维克\矿物检测\TYMTEST\TESTDLL\bin\Debug\net8.0\TESTDLL.exe
+E:\Desktop\项目\1.维克\矿物检测\TYMTEST\TESTDLL\bin\Debug\net8.0\TESTDLL.deps.json
+E:\Desktop\项目\1.维克\矿物检测\TYMTEST\TESTDLL\bin\Debug\net8.0\TESTDLL.runtimeconfig.json
+E:\Desktop\项目\1.维克\矿物检测\TYMTEST\TESTDLL\bin\Debug\net8.0\TESTDLL.dll
+E:\Desktop\项目\1.维克\矿物检测\TYMTEST\TESTDLL\bin\Debug\net8.0\TESTDLL.pdb
+E:\Desktop\项目\1.维克\矿物检测\TYMTEST\TESTDLL\obj\Debug\net8.0\TESTDLL.dll
+E:\Desktop\项目\1.维克\矿物检测\TYMTEST\TESTDLL\obj\Debug\net8.0\refint\TESTDLL.dll
+E:\Desktop\项目\1.维克\矿物检测\TYMTEST\TESTDLL\obj\Debug\net8.0\TESTDLL.pdb
+E:\Desktop\项目\1.维克\矿物检测\TYMTEST\TESTDLL\obj\Debug\net8.0\TESTDLL.genruntimeconfig.cache
+E:\Desktop\项目\1.维克\矿物检测\TYMTEST\TESTDLL\obj\Debug\net8.0\ref\TESTDLL.dll

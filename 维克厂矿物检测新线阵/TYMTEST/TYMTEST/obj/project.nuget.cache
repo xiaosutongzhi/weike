@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "zbgvs3WxNxQ=",
+  "success": true,
+  "projectFilePath": "E:\\Desktop\\项目\\1.维克\\矿物检测\\TYMTEST\\TYMTEST\\TYMTEST.csproj",
+  "expectedPackageFiles": [
+    "D:\\LocalCache\\nuget\\packages\\bitmiracle.libtiff.net\\2.4.660\\bitmiracle.libtiff.net.2.4.660.nupkg.sha512",
+    "D:\\LocalCache\\nuget\\packages\\microsoft.win32.systemevents\\9.0.6\\microsoft.win32.systemevents.9.0.6.nupkg.sha512",
+    "D:\\LocalCache\\nuget\\packages\\opencvsharp4\\4.11.0.20250507\\opencvsharp4.4.11.0.20250507.nupkg.sha512",
+    "D:\\LocalCache\\nuget\\packages\\opencvsharp4.runtime.win\\4.11.0.20250507\\opencvsharp4.runtime.win.4.11.0.20250507.nupkg.sha512",
+    "D:\\LocalCache\\nuget\\packages\\sixlabors.imagesharp\\3.1.10\\sixlabors.imagesharp.3.1.10.nupkg.sha512",
+    "D:\\LocalCache\\nuget\\packages\\system.drawing.common\\9.0.6\\system.drawing.common.9.0.6.nupkg.sha512",
+    "D:\\LocalCache\\nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "包 \"SixLabors.ImageSharp\" 3.1.10 具有已知的 中 严重性漏洞，https://github.com/advisories/GHSA-rxmq-m78w-7wmc",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\suWork\TYMTEST\TYMTEST\bin\Debug\net8.0\TYMTEST.exe
+D:\suWork\TYMTEST\TYMTEST\bin\Debug\net8.0\TYMTEST.deps.json
+D:\suWork\TYMTEST\TYMTEST\bin\Debug\net8.0\TYMTEST.runtimeconfig.json
+D:\suWork\TYMTEST\TYMTEST\bin\Debug\net8.0\TYMTEST.dll
+D:\suWork\TYMTEST\TYMTEST\bin\Debug\net8.0\TYMTEST.pdb
+D:\suWork\TYMTEST\TYMTEST\obj\Debug\net8.0\TYMTEST.GeneratedMSBuildEditorConfig.editorconfig
+D:\suWork\TYMTEST\TYMTEST\obj\Debug\net8.0\TYMTEST.AssemblyInfoInputs.cache
+D:\suWork\TYMTEST\TYMTEST\obj\Debug\net8.0\TYMTEST.AssemblyInfo.cs
+D:\suWork\TYMTEST\TYMTEST\obj\Debug\net8.0\TYMTEST.csproj.CoreCompileInputs.cache
+D:\suWork\TYMTEST\TYMTEST\obj\Debug\net8.0\TYMTEST.dll
+D:\suWork\TYMTEST\TYMTEST\obj\Debug\net8.0\refint\TYMTEST.dll
+D:\suWork\TYMTEST\TYMTEST\obj\Debug\net8.0\TYMTEST.pdb
+D:\suWork\TYMTEST\TYMTEST\obj\Debug\net8.0\TYMTEST.genruntimeconfig.cache
+D:\suWork\TYMTEST\TYMTEST\obj\Debug\net8.0\ref\TYMTEST.dll

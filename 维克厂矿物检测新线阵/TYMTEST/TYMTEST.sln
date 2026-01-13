@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TYMTEST", "TYMTEST\TYMTEST.csproj", "{24B6815A-89F2-4242-8AC6-F31224B4F014}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TYMDLL", "TYMDLL\TYMDLL.csproj", "{27560FFB-E892-42E9-B74F-8681A83C5428}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24B6815A-89F2-4242-8AC6-F31224B4F014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B6815A-89F2-4242-8AC6-F31224B4F014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B6815A-89F2-4242-8AC6-F31224B4F014}.Debug|x64.ActiveCfg = Debug|x64
+		{24B6815A-89F2-4242-8AC6-F31224B4F014}.Debug|x64.Build.0 = Debug|x64
+		{24B6815A-89F2-4242-8AC6-F31224B4F014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B6815A-89F2-4242-8AC6-F31224B4F014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24B6815A-89F2-4242-8AC6-F31224B4F014}.Release|x64.ActiveCfg = Release|x64
+		{24B6815A-89F2-4242-8AC6-F31224B4F014}.Release|x64.Build.0 = Release|x64
+		{27560FFB-E892-42E9-B74F-8681A83C5428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27560FFB-E892-42E9-B74F-8681A83C5428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27560FFB-E892-42E9-B74F-8681A83C5428}.Debug|x64.ActiveCfg = Debug|x64
+		{27560FFB-E892-42E9-B74F-8681A83C5428}.Debug|x64.Build.0 = Debug|x64
+		{27560FFB-E892-42E9-B74F-8681A83C5428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27560FFB-E892-42E9-B74F-8681A83C5428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27560FFB-E892-42E9-B74F-8681A83C5428}.Release|x64.ActiveCfg = Release|x64
+		{27560FFB-E892-42E9-B74F-8681A83C5428}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

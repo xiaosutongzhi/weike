@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24B6815A-89F2-4242-8AC6-F31224B4F014}|TYMTEST\\TYMTEST.csproj|e:\\desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\tymtest\\tymtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B6815A-89F2-4242-8AC6-F31224B4F014}|TYMTEST\\TYMTEST.csproj|solutionrelative:tymtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B6815A-89F2-4242-8AC6-F31224B4F014}|TYMTEST\\TYMTEST.csproj|e:\\desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\tymtest\\tymtest\\tymscandaq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B6815A-89F2-4242-8AC6-F31224B4F014}|TYMTEST\\TYMTEST.csproj|solutionrelative:tymtest\\tymscandaq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B6815A-89F2-4242-8AC6-F31224B4F014}|TYMTEST\\TYMTEST.csproj|e:\\desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\tymtest\\tymtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B6815A-89F2-4242-8AC6-F31224B4F014}|TYMTEST\\TYMTEST.csproj|solutionrelative:tymtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TYMTEST\\Form1.cs",
+              "RelativeDocumentMoniker": "TYMTEST\\Form1.cs",
+              "ToolTip": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TYMTEST\\Form1.cs",
+              "RelativeToolTip": "TYMTEST\\Form1.cs",
+              "ViewState": "AgIAAMMCAAAAAAAAAAAAANMCAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T07:10:13.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tymscandaq.cs",
+              "DocumentMoniker": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TYMTEST\\tymscandaq.cs",
+              "RelativeDocumentMoniker": "TYMTEST\\tymscandaq.cs",
+              "ToolTip": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TYMTEST\\tymscandaq.cs",
+              "RelativeToolTip": "TYMTEST\\tymscandaq.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAASwMcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T07:10:17.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TYMTEST\\Program.cs",
+              "RelativeDocumentMoniker": "TYMTEST\\Program.cs",
+              "ToolTip": "E:\\Desktop\\\u9879\u76EE\\1.\u7EF4\u514B\\\u77FF\u7269\u68C0\u6D4B\\TYMTEST\\TYMTEST\\Program.cs",
+              "RelativeToolTip": "TYMTEST\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:28:41.309Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

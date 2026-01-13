@@ -1,0 +1,9 @@
+E:\Desktop\项目\1.维克\矿物检测\TYMTEST\TYMTEST\bin\x64\Debug\TYMTEST.exe.config
+E:\Desktop\项目\1.维克\矿物检测\TYMTEST\TYMTEST\bin\x64\Debug\TYMTEST.exe
+E:\Desktop\项目\1.维克\矿物检测\TYMTEST\TYMTEST\bin\x64\Debug\TYMTEST.pdb
+E:\Desktop\项目\1.维克\矿物检测\TYMTEST\TYMTEST\obj\x64\Debug\TYMTEST.csproj.AssemblyReference.cache
+E:\Desktop\项目\1.维克\矿物检测\TYMTEST\TYMTEST\obj\x64\Debug\TYMTEST.Properties.Resources.resources
+E:\Desktop\项目\1.维克\矿物检测\TYMTEST\TYMTEST\obj\x64\Debug\TYMTEST.csproj.GenerateResource.cache
+E:\Desktop\项目\1.维克\矿物检测\TYMTEST\TYMTEST\obj\x64\Debug\TYMTEST.csproj.CoreCompileInputs.cache
+E:\Desktop\项目\1.维克\矿物检测\TYMTEST\TYMTEST\obj\x64\Debug\TYMTEST.exe
+E:\Desktop\项目\1.维克\矿物检测\TYMTEST\TYMTEST\obj\x64\Debug\TYMTEST.pdb
