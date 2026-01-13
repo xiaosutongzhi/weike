@@ -1,0 +1,9 @@
+[infom 2025-12-09 15:08:51][D:\Work\project\KunLun\KunLun\main.cpp:127] ####启动程序####
+[infom 2025-12-09 15:08:53][D:\Work\project\KunLun\KunLun\Main\guide.cpp:114] PanGu sdk: 3.6.3.0
+[infom 2025-12-09 15:08:53][D:\Work\project\KunLun\KunLun\Main\guide.cpp:118] FuXi sdk: 1.9.6.5
+[infom 2025-12-09 15:08:55][D:\Work\project\KunLun\KunLun\Main\guide.cpp:59] 分析模式
+[infom 2025-12-09 15:08:55][D:\Work\project\KunLun\KunLun\ImageDisplay\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2025-12-09 15:09:11][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "E:/Desktop/项目/1.维克/TMR4225-0001扫描铝条-铅房/120kv/0.048m.s/TMR4225-0001-120kV-4.16mA-7500us-7.5pF-456right.txt"
+[infom 2025-12-09 17:44:19][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "E:/Desktop/项目/1.维克/TMR4225-0001扫描铝条-铅房/120kv/0.048m.s/TMR4225-0001-120kV-4.16mA-7500us-7.5pF-铝条456左侧-校准后.txt"
+[infom 2025-12-09 18:47:06][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "E:/Desktop/项目/1.维克/TMR4225-0001扫描铝条-铅房/120kv/0.048m.s/TMR4225-0001-120kV-4.16mA-7500us-7.5pF-456right.txt"
+[infom 2025-12-10 09:53:24][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:276] 程序关闭#####

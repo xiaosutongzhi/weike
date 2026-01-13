@@ -1,0 +1,6 @@
+E:\Desktop\同源微产品资料-PANGU\TSW0014V1.3.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\x64\Debug\TYMTestDemo.csproj.AssemblyReference.cache
+E:\Desktop\同源微产品资料-PANGU\TSW0014V1.3.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\x64\Debug\TYMTestDemo.Form1.resources
+E:\Desktop\同源微产品资料-PANGU\TSW0014V1.3.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\x64\Debug\TYMTestDemo.GainList.resources
+E:\Desktop\同源微产品资料-PANGU\TSW0014V1.3.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\x64\Debug\TYMTestDemo.Properties.Resources.resources
+E:\Desktop\同源微产品资料-PANGU\TSW0014V1.3.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\x64\Debug\TYMTestDemo.csproj.GenerateResource.cache
+E:\Desktop\同源微产品资料-PANGU\TSW0014V1.3.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\x64\Debug\TYMTestDemo.exe.licenses

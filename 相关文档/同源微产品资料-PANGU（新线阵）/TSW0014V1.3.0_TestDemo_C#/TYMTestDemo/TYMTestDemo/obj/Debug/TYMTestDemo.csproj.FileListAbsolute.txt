@@ -1,0 +1,39 @@
+D:\DLL RELEATED\CSProject\TYMTestDemo\TYMTestDemo\bin\Debug\TYMTestDemo.exe.config
+D:\DLL RELEATED\CSProject\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.csprojResolveAssemblyReference.cache
+D:\DLL RELEATED\CSProject\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.Form1.resources
+D:\DLL RELEATED\CSProject\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.Properties.Resources.resources
+D:\DLL RELEATED\CSProject\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.csproj.GenerateResource.Cache
+D:\DLL RELEATED\CSProject\TYMTestDemo\TYMTestDemo\bin\Debug\TYMTestDemo.exe
+D:\DLL RELEATED\CSProject\TYMTestDemo\TYMTestDemo\bin\Debug\TYMTestDemo.pdb
+D:\DLL RELEATED\CSProject\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.exe
+D:\DLL RELEATED\CSProject\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.pdb
+D:\DLL RELEATED\CSProject\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.exe.licenses
+D:\DLL RELEATED\CSProject\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.GainList.resources
+d:\A-工作内容\软件项目一览\TYMScannerLib项目\例程源码\C#例程（调用TSW0004）\TSW0014V1.2.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\bin\Debug\TYMTestDemo.exe.config
+d:\A-工作内容\软件项目一览\TYMScannerLib项目\例程源码\C#例程（调用TSW0004）\TSW0014V1.2.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.exe
+d:\A-工作内容\软件项目一览\TYMScannerLib项目\例程源码\C#例程（调用TSW0004）\TSW0014V1.2.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.pdb
+d:\A-工作内容\软件项目一览\TYMScannerLib项目\例程源码\C#例程（调用TSW0004）\TSW0014V1.2.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\bin\Debug\TYMTestDemo.exe
+d:\A-工作内容\软件项目一览\TYMScannerLib项目\例程源码\C#例程（调用TSW0004）\TSW0014V1.2.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\bin\Debug\TYMTestDemo.pdb
+d:\A-工作内容\软件项目一览\TYMScannerLib项目\例程源码\C#例程（调用TSW0004）\TSW0014V1.2.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.csprojResolveAssemblyReference.cache
+d:\A-工作内容\软件项目一览\TYMScannerLib项目\例程源码\C#例程（调用TSW0004）\TSW0014V1.2.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.Form1.resources
+d:\A-工作内容\软件项目一览\TYMScannerLib项目\例程源码\C#例程（调用TSW0004）\TSW0014V1.2.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.GainList.resources
+d:\A-工作内容\软件项目一览\TYMScannerLib项目\例程源码\C#例程（调用TSW0004）\TSW0014V1.2.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.Properties.Resources.resources
+d:\A-工作内容\软件项目一览\TYMScannerLib项目\例程源码\C#例程（调用TSW0004）\TSW0014V1.2.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.csproj.GenerateResource.Cache
+d:\A-工作内容\软件项目一览\TYMScannerLib项目\例程源码\C#例程（调用TSW0004）\TSW0014V1.2.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.exe.licenses
+d:\A-工作内容\软件项目一览\TYMScannerLib项目\例程源码\C#例程（调用TSW0004）\TSW0014V1.3.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\bin\Debug\TYMTestDemo.exe.config
+d:\A-工作内容\软件项目一览\TYMScannerLib项目\例程源码\C#例程（调用TSW0004）\TSW0014V1.3.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.exe
+d:\A-工作内容\软件项目一览\TYMScannerLib项目\例程源码\C#例程（调用TSW0004）\TSW0014V1.3.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.pdb
+d:\A-工作内容\软件项目一览\TYMScannerLib项目\例程源码\C#例程（调用TSW0004）\TSW0014V1.3.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.csprojResolveAssemblyReference.cache
+d:\A-工作内容\软件项目一览\TYMScannerLib项目\例程源码\C#例程（调用TSW0004）\TSW0014V1.3.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.Form1.resources
+d:\A-工作内容\软件项目一览\TYMScannerLib项目\例程源码\C#例程（调用TSW0004）\TSW0014V1.3.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.GainList.resources
+d:\A-工作内容\软件项目一览\TYMScannerLib项目\例程源码\C#例程（调用TSW0004）\TSW0014V1.3.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.Properties.Resources.resources
+d:\A-工作内容\软件项目一览\TYMScannerLib项目\例程源码\C#例程（调用TSW0004）\TSW0014V1.3.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.csproj.GenerateResource.Cache
+d:\A-工作内容\软件项目一览\TYMScannerLib项目\例程源码\C#例程（调用TSW0004）\TSW0014V1.3.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.exe.licenses
+d:\A-工作内容\软件项目一览\TYMScannerLib项目\例程源码\C#例程（调用TSW0004）\TSW0014V1.3.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\bin\Debug\TYMTestDemo.exe
+d:\A-工作内容\软件项目一览\TYMScannerLib项目\例程源码\C#例程（调用TSW0004）\TSW0014V1.3.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\bin\Debug\TYMTestDemo.pdb
+E:\Desktop\同源微产品资料-PANGU\TSW0014V1.3.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.csproj.AssemblyReference.cache
+E:\Desktop\同源微产品资料-PANGU\TSW0014V1.3.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.Form1.resources
+E:\Desktop\同源微产品资料-PANGU\TSW0014V1.3.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.GainList.resources
+E:\Desktop\同源微产品资料-PANGU\TSW0014V1.3.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.Properties.Resources.resources
+E:\Desktop\同源微产品资料-PANGU\TSW0014V1.3.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.csproj.GenerateResource.cache
+E:\Desktop\同源微产品资料-PANGU\TSW0014V1.3.0_TestDemo_C#\TYMTestDemo\TYMTestDemo\obj\Debug\TYMTestDemo.exe.licenses

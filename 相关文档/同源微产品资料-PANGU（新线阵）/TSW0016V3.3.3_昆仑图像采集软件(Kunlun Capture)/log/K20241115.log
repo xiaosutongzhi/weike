@@ -1,0 +1,49 @@
+[infom 2024-11-15 10:45:35][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\main.cpp:104] ####启动程序####
+[infom 2024-11-15 10:45:36][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:112] PanGu sdk: 3.5.9.9
+[infom 2024-11-15 10:45:36][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:116] FuXi sdk: 1.9.4
+[infom 2024-11-15 10:45:39][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:58] 分析模式
+[infom 2024-11-15 10:45:39][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\ImageShowWidget\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2024-11-15 10:46:42][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/TMR4205-0001_饮料异物扫图测试/15pF-65ms-80kV-1.25mA-校准后-50000ADC-Fe0.6&1mm&饮料.txt"
+[infom 2024-11-15 10:46:47][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2024-11-15 10:47:01][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2024-11-15 10:51:21][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:262] 程序关闭#####
+[infom 2024-11-15 10:51:41][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\main.cpp:104] ####启动程序####
+[infom 2024-11-15 10:51:43][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:112] PanGu sdk: 3.5.9.9
+[infom 2024-11-15 10:51:43][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:116] FuXi sdk: 1.9.4
+[infom 2024-11-15 10:51:44][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:58] 分析模式
+[infom 2024-11-15 10:51:44][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\ImageShowWidget\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2024-11-15 10:53:30][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/TMR4205-0001_饮料异物扫图测试/0.5pF-600us-75kV-0.75mA-air-校准后-50000ADC-Fe0.6&1.0mm&饮料.txt"
+[infom 2024-11-15 10:53:39][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2024-11-15 10:54:05][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2024-11-15 10:57:42][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:262] 程序关闭#####
+[infom 2024-11-15 11:17:19][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\main.cpp:104] ####启动程序####
+[infom 2024-11-15 11:17:20][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:112] PanGu sdk: 3.5.9.9
+[infom 2024-11-15 11:17:20][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:116] FuXi sdk: 1.9.4
+[infom 2024-11-15 11:17:22][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:58] 分析模式
+[infom 2024-11-15 11:17:22][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\ImageShowWidget\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2024-11-15 11:17:52][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/IMG/0.5pF-600us-75kV-0.75mA-air-校准后-50000ADC-玻璃珠&饮料.png"
+[infom 2024-11-15 11:17:58][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:334] 打开像素分析
+[infom 2024-11-15 11:18:00][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\statisticswidget.cpp:348] 关闭像素分析
+[infom 2024-11-15 11:18:53][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/IMG/15pF-65ms-80kV-1.25mA-校准后-50000ADC-Fe0.8&饮料.png"
+[infom 2024-11-15 11:21:08][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/IMG/0.5pF-600us-75kV-0.75mA-air-校准后-50000ADC-Fe0.6&1.0mm&饮料.png"
+[infom 2024-11-15 11:21:23][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2024-11-15 11:22:54][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2024-11-15 11:23:23][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2024-11-15 11:23:42][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2024-11-18 16:30:04][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/IMG/15pF-65ms-80kV-1.25mA-校准后-50000ADC-玻璃珠&饮料.png"
+[infom 2024-11-18 16:31:47][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/AVG_X-Panel 1412i_Sample1_40KeV 5mA_SDD100_1fps_30frames_corrected.tif"
+[infom 2024-11-18 16:31:50][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2024-11-18 16:35:03][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2024-11-18 16:35:51][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2024-11-18 16:39:41][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/微信图片_20241118163303.bmp"
+[infom 2024-11-18 16:39:41][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\ImageShowWidget\framebuffer.cpp:185] bmp图像格式： QImage::Format_Indexed8
+[infom 2024-11-18 16:43:08][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2024-11-18 16:44:40][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/AVG_X-Panel 1412i_Sample1_40KeV 3mA_SDD100_1fps_30frames_corrected.tif"
+[infom 2024-11-18 16:47:52][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/AVG_X-Panel 1412i_Sample3_40KeV 8mA_SDD100_1fps_10frames_corrected.tif"
+[infom 2024-11-18 16:47:55][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2024-11-18 16:48:32][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2024-11-18 16:49:02][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/AVG_X-Panel 1412i_Sample3_40KeV 8mA_SDD100_1fps_10frames_corrected.tif"
+[infom 2024-11-18 16:49:07][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2024-11-18 16:49:48][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2024-11-18 16:50:13][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/IMG/15pF-65ms-80kV-1.25mA-校准后-50000ADC-玻璃珠&饮料.png"
+[infom 2024-11-18 16:50:16][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:262] 程序关闭#####

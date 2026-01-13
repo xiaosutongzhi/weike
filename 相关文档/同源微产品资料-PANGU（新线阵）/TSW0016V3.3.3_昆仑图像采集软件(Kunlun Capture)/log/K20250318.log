@@ -1,0 +1,23 @@
+[infom 2025-03-18 20:54:49][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\main.cpp:104] ####启动程序####
+[infom 2025-03-18 20:54:51][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:112] PanGu sdk: 3.5.9.9
+[infom 2025-03-18 20:54:51][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:116] FuXi sdk: 1.9.4
+[infom 2025-03-18 20:54:53][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:58] 分析模式
+[infom 2025-03-18 20:54:53][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\ImageShowWidget\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2025-03-18 20:55:25][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/TLD4225-0001-金矿石实验-射线机1/140kv-1.25mA-40ms-3.5pF-金矿石&金-TLD4225.txt"
+[infom 2025-03-18 20:55:37][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2025-03-18 20:57:06][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/TLD4225-0001-金矿石实验-射线机1/140kv-1.25mA-40ms-3.5pF-金矿石&金2-TLD4225.txt"
+[infom 2025-03-18 20:59:24][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/TLD4225-0001-金矿石实验-射线机1/160kv-1.25mA-40ms-3.5pF-金矿石&金-TLD4225.txt"
+[infom 2025-03-18 21:01:27][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2025-03-18 21:01:27][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:262] 程序关闭#####
+[infom 2025-03-18 21:01:38][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\main.cpp:104] ####启动程序####
+[infom 2025-03-18 21:01:39][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:112] PanGu sdk: 3.5.9.9
+[infom 2025-03-18 21:01:39][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:116] FuXi sdk: 1.9.4
+[infom 2025-03-18 21:01:40][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:58] 分析模式
+[infom 2025-03-18 21:01:40][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\ImageShowWidget\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2025-03-18 21:02:15][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/TLD4225-0001-金矿石实验-射线机1/120kv-1.25mA-65ms-3.5pF-金矿石&金-2-TLD4225.txt"
+[infom 2025-03-18 21:02:22][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2025-03-18 21:02:55][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2025-03-18 21:03:02][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/TLD4225-0001-金矿石实验-射线机1/140kv-1.25mA-40ms-3.5pF-金矿石&金2-TLD4225.txt"
+[infom 2025-03-18 21:03:12][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/TLD4225-0001-金矿石实验-射线机1/160kv-1.25mA-40ms-3.5pF-金矿石&金2-TLD4225.txt"
+[infom 2025-03-18 21:03:40][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2025-03-18 21:03:40][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:262] 程序关闭#####

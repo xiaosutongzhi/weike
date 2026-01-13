@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Desktop\\\u540C\u6E90\u5FAE\u4EA7\u54C1\u8D44\u6599-PANGU\\TSW0014V1.3.0_TestDemo_C#\\TYMTestDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17E8082D-DBAB-4DFE-A2E9-BFEA9B9AC788}|TYMTestDemo\\TYMTestDemo.csproj|e:\\desktop\\\u540C\u6E90\u5FAE\u4EA7\u54C1\u8D44\u6599-pangu\\tsw0014v1.3.0_testdemo_c#\\tymtestdemo\\tymtestdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E8082D-DBAB-4DFE-A2E9-BFEA9B9AC788}|TYMTestDemo\\TYMTestDemo.csproj|solutionrelative:tymtestdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E8082D-DBAB-4DFE-A2E9-BFEA9B9AC788}|TYMTestDemo\\TYMTestDemo.csproj|E:\\Desktop\\\u540C\u6E90\u5FAE\u4EA7\u54C1\u8D44\u6599-PANGU\\TSW0014V1.3.0_TestDemo_C#\\TYMTestDemo\\tymtestdemo\\gainlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E8082D-DBAB-4DFE-A2E9-BFEA9B9AC788}|TYMTestDemo\\TYMTestDemo.csproj|solutionrelative:tymtestdemo\\gainlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E8082D-DBAB-4DFE-A2E9-BFEA9B9AC788}|TYMTestDemo\\TYMTestDemo.csproj|E:\\Desktop\\\u540C\u6E90\u5FAE\u4EA7\u54C1\u8D44\u6599-PANGU\\TSW0014V1.3.0_TestDemo_C#\\TYMTestDemo\\tymtestdemo\\gainlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E8082D-DBAB-4DFE-A2E9-BFEA9B9AC788}|TYMTestDemo\\TYMTestDemo.csproj|solutionrelative:tymtestdemo\\gainlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E8082D-DBAB-4DFE-A2E9-BFEA9B9AC788}|TYMTestDemo\\TYMTestDemo.csproj|E:\\Desktop\\\u540C\u6E90\u5FAE\u4EA7\u54C1\u8D44\u6599-PANGU\\TSW0014V1.3.0_TestDemo_C#\\TYMTestDemo\\tymtestdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17E8082D-DBAB-4DFE-A2E9-BFEA9B9AC788}|TYMTestDemo\\TYMTestDemo.csproj|solutionrelative:tymtestdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\Desktop\\\u540C\u6E90\u5FAE\u4EA7\u54C1\u8D44\u6599-PANGU\\TSW0014V1.3.0_TestDemo_C#\\TYMTestDemo\\TYMTestDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "TYMTestDemo\\Form1.cs",
+              "ToolTip": "E:\\Desktop\\\u540C\u6E90\u5FAE\u4EA7\u54C1\u8D44\u6599-PANGU\\TSW0014V1.3.0_TestDemo_C#\\TYMTestDemo\\TYMTestDemo\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "TYMTestDemo\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:23:12.167Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GainList.Designer.cs",
+              "DocumentMoniker": "E:\\Desktop\\\u540C\u6E90\u5FAE\u4EA7\u54C1\u8D44\u6599-PANGU\\TSW0014V1.3.0_TestDemo_C#\\TYMTestDemo\\TYMTestDemo\\GainList.Designer.cs",
+              "RelativeDocumentMoniker": "TYMTestDemo\\GainList.Designer.cs",
+              "ToolTip": "E:\\Desktop\\\u540C\u6E90\u5FAE\u4EA7\u54C1\u8D44\u6599-PANGU\\TSW0014V1.3.0_TestDemo_C#\\TYMTestDemo\\TYMTestDemo\\GainList.Designer.cs",
+              "RelativeToolTip": "TYMTestDemo\\GainList.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:59:21.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GainList.cs",
+              "DocumentMoniker": "E:\\Desktop\\\u540C\u6E90\u5FAE\u4EA7\u54C1\u8D44\u6599-PANGU\\TSW0014V1.3.0_TestDemo_C#\\TYMTestDemo\\TYMTestDemo\\GainList.cs",
+              "RelativeDocumentMoniker": "TYMTestDemo\\GainList.cs",
+              "ToolTip": "E:\\Desktop\\\u540C\u6E90\u5FAE\u4EA7\u54C1\u8D44\u6599-PANGU\\TSW0014V1.3.0_TestDemo_C#\\TYMTestDemo\\TYMTestDemo\\GainList.cs",
+              "RelativeToolTip": "TYMTestDemo\\GainList.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:20:37.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Desktop\\\u540C\u6E90\u5FAE\u4EA7\u54C1\u8D44\u6599-PANGU\\TSW0014V1.3.0_TestDemo_C#\\TYMTestDemo\\TYMTestDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "TYMTestDemo\\Form1.cs",
+              "ToolTip": "E:\\Desktop\\\u540C\u6E90\u5FAE\u4EA7\u54C1\u8D44\u6599-PANGU\\TSW0014V1.3.0_TestDemo_C#\\TYMTestDemo\\TYMTestDemo\\Form1.cs",
+              "RelativeToolTip": "TYMTestDemo\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:57:20.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

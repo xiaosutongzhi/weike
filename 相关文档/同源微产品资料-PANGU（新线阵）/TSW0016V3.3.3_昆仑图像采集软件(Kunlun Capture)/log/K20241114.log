@@ -1,0 +1,47 @@
+[infom 2024-11-14 15:21:30][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\main.cpp:104] ####启动程序####
+[infom 2024-11-14 15:21:31][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:112] PanGu sdk: 3.5.9.9
+[infom 2024-11-14 15:21:31][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:116] FuXi sdk: 1.9.4
+[infom 2024-11-14 15:21:34][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:58] 分析模式
+[infom 2024-11-14 15:21:34][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\ImageShowWidget\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2024-11-14 15:22:23][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/微信图片_20241114152108.png"
+[infom 2024-11-14 15:22:42][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2024-11-14 15:22:55][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2024-11-14 15:23:02][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:334] 打开像素分析
+[infom 2024-11-14 15:25:24][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\statisticswidget.cpp:348] 关闭像素分析
+[infom 2024-11-14 15:26:13][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2024-11-14 15:27:22][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2024-11-14 15:27:55][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/2222.png"
+[infom 2024-11-14 15:27:58][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2024-11-14 15:28:43][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2024-11-14 15:28:46][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:334] 打开像素分析
+[infom 2024-11-14 15:28:51][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\statisticswidget.cpp:348] 关闭像素分析
+[infom 2024-11-14 15:29:01][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2024-11-14 15:29:03][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2024-11-14 15:29:10][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\dcmstatuspangu.cpp:58] PANGU获取返回:  204
+[infom 2024-11-14 15:29:10][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\dcmstatuspangu.cpp:96] 探测器类型: 0
+[infom 2024-11-14 15:29:26][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1532] 打开about界面
+[infom 2024-11-14 15:30:17][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2024-11-14 15:30:19][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2024-11-14 15:30:20][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:334] 打开像素分析
+[infom 2024-11-14 15:30:23][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:334] 打开像素分析
+[infom 2024-11-14 15:31:34][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\statisticswidget.cpp:204] 保存详细数据: "C:/Users/xqw/Desktop/222.xlsx"
+[infom 2024-11-14 15:33:08][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\statisticswidget.cpp:348] 关闭像素分析
+[infom 2024-11-14 15:33:31][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "E:/工作/TYW/客户测试（同源微）/TLD4105-扫轮胎原材料+订书钉+曲别针+小木棍/65ms-3.5pFoffset-校准后.txt"
+[infom 2024-11-14 15:33:34][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2024-11-14 15:33:40][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2024-11-14 15:33:41][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2024-11-14 15:33:43][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2024-11-14 15:33:44][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:334] 打开像素分析
+[infom 2024-11-14 15:33:46][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\statisticswidget.cpp:348] 关闭像素分析
+[infom 2024-11-14 15:33:54][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "E:/工作/TYW/客户测试（同源微）/TLD4105-扫轮胎原材料+订书钉+曲别针+小木棍/65ms-3.5pF-80kV-1.25mA-被测物-校准后.txt"
+[infom 2024-11-14 15:33:56][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:334] 打开像素分析
+[infom 2024-11-14 15:34:11][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\statisticswidget.cpp:348] 关闭像素分析
+[infom 2024-11-14 15:34:18][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:334] 打开像素分析
+[infom 2024-11-14 15:34:24][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\statisticswidget.cpp:348] 关闭像素分析
+[infom 2024-11-14 15:34:25][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2024-11-14 15:34:55][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2024-11-14 15:37:24][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/微信图片_20241114152108.png"
+[infom 2024-11-14 15:37:37][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/2222.png"
+[infom 2024-11-14 15:37:41][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2024-11-14 15:37:45][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2024-11-14 15:38:30][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:262] 程序关闭#####

@@ -1,0 +1,12 @@
+[infom 2024-11-28 09:48:35][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\main.cpp:104] ####启动程序####
+[infom 2024-11-28 09:48:36][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:112] PanGu sdk: 3.5.9.9
+[infom 2024-11-28 09:48:36][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:116] FuXi sdk: 1.9.4
+[infom 2024-11-28 09:48:38][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:58] 分析模式
+[infom 2024-11-28 09:48:38][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\ImageShowWidget\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2024-11-28 09:49:11][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "E:/工作/TYW/客户测试（同源微）/鸡蛋样品测试/线扫 75KV 0.75mA 0.1mm像素.jpg"
+[infom 2024-11-28 09:49:31][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "E:/工作/TYW/客户测试（同源微）/鸡蛋样品测试/CT 115KV 2.5mA 500ms曝光.png"
+[infom 2024-11-28 09:49:38][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2024-11-28 09:50:08][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2024-11-28 09:52:31][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2024-11-28 09:52:44][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2024-11-28 09:52:44][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:262] 程序关闭#####

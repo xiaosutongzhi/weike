@@ -1,0 +1,19 @@
+[infom 2025-08-07 15:22:07][D:\Work\project\KunLun\KunLun\main.cpp:127] ####启动程序####
+[infom 2025-08-07 15:22:08][D:\Work\project\KunLun\KunLun\Main\guide.cpp:114] PanGu sdk: 3.6.3.0
+[infom 2025-08-07 15:22:08][D:\Work\project\KunLun\KunLun\Main\guide.cpp:118] FuXi sdk: 1.9.6.5
+[infom 2025-08-07 15:22:12][D:\Work\project\KunLun\KunLun\Main\guide.cpp:59] 分析模式
+[infom 2025-08-07 15:22:12][D:\Work\project\KunLun\KunLun\ImageDisplay\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2025-08-07 15:22:40][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "C:/Users/MS2403/Desktop/TYM/第一次.tif"
+[infom 2025-08-07 15:22:58][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:361] 打开窗宽窗位
+[infom 2025-08-07 15:29:07][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:361] 打开窗宽窗位
+[infom 2025-08-07 15:53:23][D:\Work\project\KunLun\KunLun\Windowing\windowing.cpp:84] 关闭窗宽窗位
+[infom 2025-08-07 15:53:23][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:276] 程序关闭#####
+[infom 2025-08-07 16:00:19][D:\Work\project\KunLun\KunLun\main.cpp:127] ####启动程序####
+[infom 2025-08-07 16:00:20][D:\Work\project\KunLun\KunLun\Main\guide.cpp:114] PanGu sdk: 3.6.3.0
+[infom 2025-08-07 16:00:20][D:\Work\project\KunLun\KunLun\Main\guide.cpp:118] FuXi sdk: 1.9.6.5
+[infom 2025-08-07 16:00:21][D:\Work\project\KunLun\KunLun\Main\guide.cpp:59] 分析模式
+[infom 2025-08-07 16:00:21][D:\Work\project\KunLun\KunLun\ImageDisplay\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2025-08-07 16:00:36][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "C:/Users/MS2403/Desktop/P_12-1.tif"
+[infom 2025-08-07 16:00:42][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:361] 打开窗宽窗位
+[infom 2025-08-07 16:15:24][D:\Work\project\KunLun\KunLun\Windowing\windowing.cpp:84] 关闭窗宽窗位
+[infom 2025-08-07 16:15:25][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:276] 程序关闭#####

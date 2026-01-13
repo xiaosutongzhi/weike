@@ -1,0 +1,35 @@
+[infom 2025-03-21 09:24:00][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\main.cpp:104] ####启动程序####
+[infom 2025-03-21 09:24:01][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:112] PanGu sdk: 3.5.9.9
+[infom 2025-03-21 09:24:01][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:116] FuXi sdk: 1.9.4
+[infom 2025-03-21 09:24:03][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\BootArea\guide.cpp:58] 分析模式
+[infom 2025-03-21 09:24:03][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\ImageShowWidget\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2025-03-21 09:24:34][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/金矿石扫图/TLD4225/120kv-4mA-1.5m.s-2.txt"
+[infom 2025-03-21 09:24:40][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2025-03-21 09:25:06][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/金矿石扫图/TLD4225/140kv-3.2mA-1.5m.s-2.txt"
+[infom 2025-03-21 09:26:06][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2025-03-21 09:26:16][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/金矿石扫图/TMR4215/120kv-4.1mA-2.3m.s.txt"
+[infom 2025-03-21 09:26:23][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2025-03-21 09:26:56][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/金矿石扫图/TMR4215/140kv-3.5mA-2.3m.s.txt"
+[infom 2025-03-21 09:27:05][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2025-03-21 09:27:10][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:334] 打开像素分析
+[infom 2025-03-21 09:27:35][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\statisticswidget.cpp:348] 关闭像素分析
+[infom 2025-03-21 09:27:46][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:334] 打开像素分析
+[infom 2025-03-21 09:28:45][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\statisticswidget.cpp:348] 关闭像素分析
+[infom 2025-03-21 09:35:43][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2025-03-21 09:49:12][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2025-03-21 11:05:32][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/金矿石扫图/TMR4215/160kv-3.1mA-2.5m.s.txt"
+[infom 2025-03-21 11:05:40][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/金矿石扫图/TMR4215/140kv-3.5mA-2.3m.s.txt"
+[infom 2025-03-21 11:05:57][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/金矿石扫图/TLD4225/140kv-3.2mA-1.5m.s-2.txt"
+[infom 2025-03-21 11:06:08][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2025-03-21 11:06:50][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/金矿石扫图/TLD4225/140kv-3.2mA-1.5m.s-2.txt"
+[infom 2025-03-21 11:07:01][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/金矿石扫图/TMR4215/140kv-3.5mA-2.3m.s.txt"
+[infom 2025-03-21 11:07:08][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2025-03-21 11:08:09][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/金矿石扫图/TMR4215/120kv-4.1mA-2.3m.s.txt"
+[infom 2025-03-21 11:10:36][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2025-03-21 11:24:15][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2025-03-21 11:25:31][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2025-03-21 14:22:45][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/金矿石扫图/TLD4225/120kv-4mA-1.5m.s.txt"
+[infom 2025-03-21 14:22:52][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:345] 打开窗宽窗位
+[infom 2025-03-21 14:23:01][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\Windowing\windowing.cpp:82] 关闭窗宽窗位
+[infom 2025-03-21 14:23:34][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:1146] 打开文件： "C:/Users/xqw/Desktop/金矿石扫图/TMR4215/140kv-3.5mA-2.3m.s.txt"
+[infom 2025-03-21 16:45:30][C:\zzj\PROJECT\TYM_SOFTWARE_PROJECT\FUXI_SOFTWARE\KUNLUN_Qt6\custommainwindow.cpp:262] 程序关闭#####

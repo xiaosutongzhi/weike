@@ -1,0 +1,75 @@
+[infom 2025-12-08 14:48:53][D:\Work\project\KunLun\KunLun\main.cpp:127] ####启动程序####
+[infom 2025-12-08 14:48:54][D:\Work\project\KunLun\KunLun\Main\guide.cpp:114] PanGu sdk: 3.6.3.0
+[infom 2025-12-08 14:48:54][D:\Work\project\KunLun\KunLun\Main\guide.cpp:118] FuXi sdk: 1.9.6.5
+[infom 2025-12-08 14:48:57][D:\Work\project\KunLun\KunLun\Main\guide.cpp:59] 分析模式
+[infom 2025-12-08 14:48:57][D:\Work\project\KunLun\KunLun\ImageDisplay\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2025-12-08 14:49:16][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "C:/Users/MS2403/Desktop/TMR4225-0001扫描铝条-铅房/TMR4225-0001扫描铝条-铅房/80kv/0.048m.s/TMR4225-0001-80kV-5.6mA-7500us-3.5pF-air-校准后.txt"
+[infom 2025-12-08 14:49:32][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:361] 打开窗宽窗位
+[infom 2025-12-08 14:49:59][D:\Work\project\KunLun\KunLun\Windowing\windowing.cpp:84] 关闭窗宽窗位
+[infom 2025-12-08 14:50:07][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "C:/Users/MS2403/Desktop/TMR4225-0001扫描铝条-铅房/TMR4225-0001扫描铝条-铅房/80kv/0.048m.s/TMR4225-0001-7500us-3.5pF-offset-校准后.txt"
+[infom 2025-12-08 14:50:28][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:361] 打开窗宽窗位
+[infom 2025-12-08 14:50:43][D:\Work\project\KunLun\KunLun\Windowing\windowing.cpp:84] 关闭窗宽窗位
+[infom 2025-12-08 14:51:26][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "C:/Users/MS2403/Desktop/TMR4225-0001扫描铝条-铅房/TMR4225-0001扫描铝条-铅房/80kv/0.048m.s/TMR4225-0001-80kV-5.6mA-7500us-3.5pF-铝条123右侧-校准后.txt"
+[infom 2025-12-08 14:51:53][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "C:/Users/MS2403/Desktop/TMR4225-0001扫描铝条-铅房/TMR4225-0001扫描铝条-铅房/80kv/0.048m.s/TMR4225-0001-80kV-5.6mA-7500us-3.5pF-铝条123左侧-校准后.txt"
+[infom 2025-12-08 14:53:20][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:361] 打开窗宽窗位
+[infom 2025-12-08 14:54:31][D:\Work\project\KunLun\KunLun\Windowing\windowing.cpp:84] 关闭窗宽窗位
+[infom 2025-12-08 14:54:36][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "C:/Users/MS2403/Desktop/TMR4225-0001扫描铝条-铅房/TMR4225-0001扫描铝条-铅房/80kv/0.048m.s/TMR4225-0001-7500us-3.5pF-offset-校准后.txt"
+[infom 2025-12-08 14:54:54][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "C:/Users/MS2403/Desktop/TMR4225-0001扫描铝条-铅房/TMR4225-0001扫描铝条-铅房/80kv/0.048m.s/TMR4225-0001-80kV-5.6mA-7500us-3.5pF-铝条456左侧-校准后.txt"
+[infom 2025-12-08 14:57:01][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "C:/Users/MS2403/Desktop/TMR4225-0001扫描铝条-铅房/TMR4225-0001扫描铝条-铅房/80kv/0.048m.s/TMR4225-0001-80kV-5.6mA-7500us-3.5pF-air-校准前.txt"
+[infom 2025-12-08 14:57:13][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "C:/Users/MS2403/Desktop/TMR4225-0001扫描铝条-铅房/TMR4225-0001扫描铝条-铅房/80kv/0.048m.s/TMR4225-0001-80kV-5.6mA-7500us-3.5pF-铝条123右侧-校准后.txt"
+[infom 2025-12-08 14:57:37][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "C:/Users/MS2403/Desktop/TMR4225-0001扫描铝条-铅房/TMR4225-0001扫描铝条-铅房/80kv/0.048m.s/TMR4225-0001-80kV-5.6mA-7500us-3.5pF-铝条456右侧-校准后.txt"
+[infom 2025-12-08 14:57:53][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:350] 打开像素分析
+[infom 2025-12-08 14:57:54][D:\Work\project\KunLun\KunLun\PixelStatistics\statisticswidget.cpp:384] 关闭像素分析
+[infom 2025-12-08 14:57:58][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:361] 打开窗宽窗位
+[infom 2025-12-08 14:58:27][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "C:/Users/MS2403/Desktop/TMR4225-0001扫描铝条-铅房/TMR4225-0001扫描铝条-铅房/120kv/0.048m.s/TMR4225-0001-120kV-4.16mA-7500us-7.5pF-air-校准后.txt"
+[infom 2025-12-08 14:58:31][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "C:/Users/MS2403/Desktop/TMR4225-0001扫描铝条-铅房/TMR4225-0001扫描铝条-铅房/120kv/0.048m.s/TMR4225-0001-120kV-4.16mA-7500us-7.5pF-air-校准前.txt"
+[infom 2025-12-08 14:58:41][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "C:/Users/MS2403/Desktop/TMR4225-0001扫描铝条-铅房/TMR4225-0001扫描铝条-铅房/120kv/0.048m.s/TMR4225-0001-120kV-4.16mA-7500us-7.5pF-铝条123右侧-校准后.txt"
+[infom 2025-12-08 14:59:28][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "C:/Users/MS2403/Desktop/TMR4225-0001扫描铝条-铅房/TMR4225-0001扫描铝条-铅房/120kv/0.048m.s/TMR4225-0001-120kV-4.16mA-7500us-7.5pF-铝条123左侧-校准后.txt"
+[infom 2025-12-08 14:59:46][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "C:/Users/MS2403/Desktop/TMR4225-0001扫描铝条-铅房/TMR4225-0001扫描铝条-铅房/120kv/0.048m.s/TMR4225-0001-120kV-4.16mA-7500us-7.5pF-铝条456右侧-校准后.txt"
+[infom 2025-12-08 15:00:02][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:361] 打开窗宽窗位
+[infom 2025-12-08 15:04:52][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "C:/Users/MS2403/Desktop/TMR4225-0001扫描铝条-铅房/TMR4225-0001扫描铝条-铅房/120kv/0.048m.s/TMR4225-0001-120kV-4.16mA-7500us-7.5pF-铝条456左侧-校准后.txt"
+[infom 2025-12-08 15:08:11][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "C:/Users/MS2403/Desktop/TMR4225-0001扫描铝条-铅房/TMR4225-0001扫描铝条-铅房/120kv/0.048m.s/TMR4225-0001-120kV-4.16mA-7500us-7.5pF-铝条456右侧-校准后.txt"
+[infom 2025-12-08 15:15:59][D:\Work\project\KunLun\KunLun\main.cpp:127] ####启动程序####
+[infom 2025-12-08 15:16:00][D:\Work\project\KunLun\KunLun\Main\guide.cpp:114] PanGu sdk: 3.6.3.0
+[infom 2025-12-08 15:16:00][D:\Work\project\KunLun\KunLun\Main\guide.cpp:118] FuXi sdk: 1.9.6.5
+[infom 2025-12-08 15:16:03][D:\Work\project\KunLun\KunLun\Main\guide.cpp:59] 分析模式
+[infom 2025-12-08 15:16:03][D:\Work\project\KunLun\KunLun\ImageDisplay\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2025-12-08 15:16:16][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "E:/Desktop/TMR4225-0001扫描铝条-铅房/120kv/0.048m.s/TMR4225-0001-120kV-4.16mA-7500us-7.5pF-铝条123左侧-校准后.txt"
+[infom 2025-12-08 15:16:22][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:276] 程序关闭#####
+[infom 2025-12-08 15:28:51][D:\Work\project\KunLun\KunLun\main.cpp:127] ####启动程序####
+[infom 2025-12-08 15:28:52][D:\Work\project\KunLun\KunLun\Main\guide.cpp:114] PanGu sdk: 3.6.3.0
+[infom 2025-12-08 15:28:52][D:\Work\project\KunLun\KunLun\Main\guide.cpp:118] FuXi sdk: 1.9.6.5
+[infom 2025-12-08 15:28:54][D:\Work\project\KunLun\KunLun\Main\guide.cpp:59] 分析模式
+[infom 2025-12-08 15:28:54][D:\Work\project\KunLun\KunLun\ImageDisplay\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2025-12-08 15:32:59][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:276] 程序关闭#####
+[infom 2025-12-08 15:34:08][D:\Work\project\KunLun\KunLun\main.cpp:127] ####启动程序####
+[infom 2025-12-08 15:34:09][D:\Work\project\KunLun\KunLun\Main\guide.cpp:114] PanGu sdk: 3.6.3.0
+[infom 2025-12-08 15:34:09][D:\Work\project\KunLun\KunLun\Main\guide.cpp:118] FuXi sdk: 1.9.6.5
+[infom 2025-12-08 15:34:10][D:\Work\project\KunLun\KunLun\Main\guide.cpp:59] 分析模式
+[infom 2025-12-08 15:34:11][D:\Work\project\KunLun\KunLun\ImageDisplay\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2025-12-08 15:34:26][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "E:/Desktop/项目/1.维克/矿物检测/TSW0016V3.3.9_昆仑图像采集软件(Kunlun Capture)_win10_win11/KunlunCapture.exe"
+[infom 2025-12-08 15:34:56][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "E:/Desktop/项目/1.维克/TMR4225-0001扫描铝条-铅房/120kv/0.048m.s/TMR4225-0001-120kV-4.16mA-7500us-7.5pF-铝条456右侧-校准后.txt"
+[infom 2025-12-08 15:36:19][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:276] 程序关闭#####
+[infom 2025-12-08 16:16:33][D:\Work\project\KunLun\KunLun\main.cpp:127] ####启动程序####
+[infom 2025-12-08 16:16:34][D:\Work\project\KunLun\KunLun\Main\guide.cpp:114] PanGu sdk: 3.6.3.0
+[infom 2025-12-08 16:16:34][D:\Work\project\KunLun\KunLun\Main\guide.cpp:118] FuXi sdk: 1.9.6.5
+[infom 2025-12-08 16:16:35][D:\Work\project\KunLun\KunLun\Main\guide.cpp:59] 分析模式
+[infom 2025-12-08 16:16:35][D:\Work\project\KunLun\KunLun\ImageDisplay\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2025-12-08 16:16:56][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "E:/Desktop/项目/1.维克/TMR4225-0001扫描铝条-铅房/120kv/0.048m.s/TMR4225-0001-120kV-4.16mA-7500us-7.5pF-铝条456右侧-校准后.txt"
+[infom 2025-12-08 16:17:30][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1409] 保存图像： "E:/Desktop/项目/1.维克/TMR4225-0001扫描铝条-铅房/120kv/0.048m.s/456右侧校准后.txt"
+[infom 2025-12-08 16:18:07][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1409] 保存图像： "E:/Desktop/项目/1.维克/TMR4225-0001扫描铝条-铅房/120kv/0.048m.s/456右侧校准后.tif"
+[infom 2025-12-08 16:18:21][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "E:/Desktop/项目/1.维克/TMR4225-0001扫描铝条-铅房/120kv/0.048m.s/TMR4225-0001-120kV-4.16mA-7500us-7.5pF-铝条456左侧-校准后.txt"
+[infom 2025-12-08 16:18:35][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1409] 保存图像： "E:/Desktop/项目/1.维克/TMR4225-0001扫描铝条-铅房/120kv/0.048m.s/456左侧校准后.tif"
+[infom 2025-12-08 16:21:06][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "E:/Desktop/项目/1.维克/TMR4225-0001扫描铝条-铅房/120kv/0.048m.s/TMR4225-0001-120kV-4.16mA-7500us-7.5pF-铝条456右侧-校准后.txt"
+[infom 2025-12-08 16:21:25][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1409] 保存图像： "E:/Desktop/项目/1.维克/TMR4225-0001扫描铝条-铅房/120kv/0.048m.s/456右侧校准后.raw"
+[infom 2025-12-08 16:22:41][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:350] 打开像素分析
+[infom 2025-12-08 16:38:55][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:361] 打开窗宽窗位
+[infom 2025-12-08 16:38:56][D:\Work\project\KunLun\KunLun\Windowing\windowing.cpp:84] 关闭窗宽窗位
+[infom 2025-12-08 18:50:21][D:\Work\project\KunLun\KunLun\PixelStatistics\statisticswidget.cpp:384] 关闭像素分析
+[infom 2025-12-08 19:07:57][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:276] 程序关闭#####
+[infom 2025-12-08 19:26:14][D:\Work\project\KunLun\KunLun\main.cpp:127] ####启动程序####
+[infom 2025-12-08 19:26:15][D:\Work\project\KunLun\KunLun\Main\guide.cpp:114] PanGu sdk: 3.6.3.0
+[infom 2025-12-08 19:26:15][D:\Work\project\KunLun\KunLun\Main\guide.cpp:118] FuXi sdk: 1.9.6.5
+[infom 2025-12-08 19:26:16][D:\Work\project\KunLun\KunLun\Main\guide.cpp:59] 分析模式
+[infom 2025-12-08 19:26:16][D:\Work\project\KunLun\KunLun\ImageDisplay\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2025-12-08 19:26:55][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:276] 程序关闭#####

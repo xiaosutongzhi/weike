@@ -1,0 +1,141 @@
+[infom 2025-07-17 13:03:36][D:\Work\project\KunLun\KunLun\main.cpp:127] ####启动程序####
+[infom 2025-07-17 13:03:37][D:\Work\project\KunLun\KunLun\Main\guide.cpp:114] PanGu sdk: 3.6.3.0
+[infom 2025-07-17 13:03:37][D:\Work\project\KunLun\KunLun\Main\guide.cpp:118] FuXi sdk: 1.9.6.5
+[infom 2025-07-17 13:03:40][D:\Work\project\KunLun\KunLun\Main\guide_set.cpp:58] 进入PanGu
+[infom 2025-07-17 13:03:42][D:\Work\project\KunLun\KunLun\Main\guide_set.cpp:331] init success: QList(0)
+[infom 2025-07-17 13:03:42][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:375] "获取系统类型:PANGU"
+[infom 2025-07-17 13:03:42][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:406] 获取[系统:  "PANGU" , 能级:  2 , 巨型帧:   , 探测器类型:  "PGD08PB" ]
+[infom 2025-07-17 13:03:43][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:435] 设置[energy: 1 ,pixelorder: 0 ,huge: "01" ]
+[infom 2025-07-17 13:03:45][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:1,number:5"
+[infom 2025-07-17 13:03:45][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:2,number:5"
+[infom 2025-07-17 13:03:45][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:3,number:0"
+[infom 2025-07-17 13:03:45][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:4,number:0"
+[infom 2025-07-17 13:03:45][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:115] "设置每块卡像素数，number:256"
+[infom 2025-07-17 13:03:45][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:610] "图像信息,block:32,frameheight:512, framewidth:2560, bytesperpixel:2,bitrange:16"
+[infom 2025-07-17 13:03:45][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:626] pixel pitch: 255
+[infom 2025-07-17 13:03:45][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1632] [create: "id:0,systype:20,width:2560,height:512,pixelnum:2560,instance:0" ]
+[infom 2025-07-17 13:03:45][D:\Work\project\KunLun\KunLun\ImageDisplay\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2025-07-17 13:03:45][D:\Work\project\KunLun\KunLun\ImageDisplay\imagewindow.cpp:886] 壳体： "1515151515151515151515151515151515151515151515151515151515151515"
+[infom 2025-07-17 13:03:45][D:\Work\project\KunLun\KunLun\Main\guide_set.cpp:391] Pangu进入主界面
+[infom 2025-07-17 13:03:52][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:314] 打开校准界面
+[infom 2025-07-17 13:03:57][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1306] 打开增益界面
+[infom 2025-07-17 13:04:00][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:217] mOptSettingPanGu 关闭
+[infom 2025-07-17 13:04:15][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:314] 打开校准界面
+[infom 2025-07-17 13:04:58][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1347] 操作设置界面
+[infom 2025-07-17 13:05:02][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:217] mOptSettingPanGu 关闭
+[infom 2025-07-17 13:07:59][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:361] 打开窗宽窗位
+[infom 2025-07-17 13:08:41][D:\Work\project\KunLun\KunLun\Windowing\windowing.cpp:84] 关闭窗宽窗位
+[infom 2025-07-17 13:08:51][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1347] 操作设置界面
+[infom 2025-07-17 13:08:54][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:217] mOptSettingPanGu 关闭
+[infom 2025-07-17 13:08:56][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1306] 打开增益界面
+[infom 2025-07-17 13:08:58][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:217] mOptSettingPanGu 关闭
+[infom 2025-07-17 13:09:00][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:350] 打开像素分析
+[infom 2025-07-17 13:09:13][D:\Work\project\KunLun\KunLun\PixelStatistics\statisticswidget.cpp:384] 关闭像素分析
+[infom 2025-07-17 13:09:16][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:276] 程序关闭#####
+[infom 2025-07-17 13:09:18][D:\Work\project\KunLun\KunLun\main.cpp:127] ####启动程序####
+[infom 2025-07-17 13:09:19][D:\Work\project\KunLun\KunLun\Main\guide.cpp:114] PanGu sdk: 3.6.3.0
+[infom 2025-07-17 13:09:19][D:\Work\project\KunLun\KunLun\Main\guide.cpp:118] FuXi sdk: 1.9.6.5
+[infom 2025-07-17 13:09:21][D:\Work\project\KunLun\KunLun\Main\guide_set.cpp:58] 进入PanGu
+[infom 2025-07-17 13:09:22][D:\Work\project\KunLun\KunLun\Main\guide_set.cpp:331] init success: QList(0)
+[infom 2025-07-17 13:09:22][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:375] "获取系统类型:PANGU"
+[infom 2025-07-17 13:09:22][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:406] 获取[系统:  "PANGU" , 能级:  2 , 巨型帧:   , 探测器类型:  "PGD08PB" ]
+[infom 2025-07-17 13:09:23][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:435] 设置[energy: 1 ,pixelorder: 0 ,huge: "01" ]
+[infom 2025-07-17 13:09:25][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:1,number:5"
+[infom 2025-07-17 13:09:25][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:2,number:5"
+[infom 2025-07-17 13:09:25][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:3,number:0"
+[infom 2025-07-17 13:09:25][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:4,number:0"
+[infom 2025-07-17 13:09:25][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:115] "设置每块卡像素数，number:256"
+[infom 2025-07-17 13:09:25][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:610] "图像信息,block:32,frameheight:512, framewidth:2560, bytesperpixel:2,bitrange:16"
+[infom 2025-07-17 13:09:25][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:626] pixel pitch: 255
+[infom 2025-07-17 13:09:25][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1632] [create: "id:0,systype:20,width:2560,height:512,pixelnum:2560,instance:0" ]
+[infom 2025-07-17 13:09:25][D:\Work\project\KunLun\KunLun\ImageDisplay\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2025-07-17 13:09:25][D:\Work\project\KunLun\KunLun\ImageDisplay\imagewindow.cpp:886] 壳体： "1515151515151515151515151515151515151515151515151515151515151515"
+[infom 2025-07-17 13:09:25][D:\Work\project\KunLun\KunLun\Main\guide_set.cpp:391] Pangu进入主界面
+[infom 2025-07-17 13:09:30][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:314] 打开校准界面
+[infom 2025-07-17 13:09:54][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:350] 打开像素分析
+[infom 2025-07-17 13:10:10][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1347] 操作设置界面
+[infom 2025-07-17 13:10:18][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-07-17 13:10:26][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:350] 打开像素分析
+[infom 2025-07-17 13:10:33][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:350] 打开像素分析
+[infom 2025-07-17 13:11:44][D:\Work\project\KunLun\KunLun\PixelStatistics\statisticswidget.cpp:166] 设置范围，noisey:  "0" , 2258
+[infom 2025-07-17 13:12:12][D:\Work\project\KunLun\KunLun\PixelStatistics\statisticswidget.cpp:384] 关闭像素分析
+[infom 2025-07-17 13:12:17][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1306] 打开增益界面
+[infom 2025-07-17 13:12:30][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:42] "设置低能增益: card_no:0,loggain:1"
+[infom 2025-07-17 13:12:30][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:63] "设置高能增益: card_no:0,loggain:1"
+[infom 2025-07-17 13:12:31][D:\Work\project\KunLun\KunLun\PANGU\gain_setting.cpp:148] 保存到flash
+[infom 2025-07-17 13:12:32][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:42] "设置低能增益: card_no:0,loggain:1"
+[infom 2025-07-17 13:12:33][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:63] "设置高能增益: card_no:0,loggain:1"
+[infom 2025-07-17 13:12:33][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:42] "设置低能增益: card_no:0,loggain:1"
+[infom 2025-07-17 13:12:34][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:63] "设置高能增益: card_no:0,loggain:1"
+[infom 2025-07-17 13:12:34][D:\Work\project\KunLun\KunLun\ImageDisplay\imagewindow.cpp:108] 丢失行数[start: 1809  end: 1840 , "2025-07-17 13:12:34" , 17 ]
+[infom 2025-07-17 13:12:34][D:\Work\project\KunLun\KunLun\ImageDisplay\imagewindow.cpp:109] [ "1791 1809," ]
+[infom 2025-07-17 13:12:36][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:42] "设置低能增益: card_no:0,loggain:1"
+[infom 2025-07-17 13:12:37][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:63] "设置高能增益: card_no:0,loggain:1"
+[infom 2025-07-17 13:12:38][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:42] "设置低能增益: card_no:0,loggain:1"
+[infom 2025-07-17 13:12:38][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:63] "设置高能增益: card_no:0,loggain:1"
+[infom 2025-07-17 13:12:38][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:217] mOptSettingPanGu 关闭
+[infom 2025-07-17 13:12:43][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:350] 打开像素分析
+[infom 2025-07-17 13:12:53][D:\Work\project\KunLun\KunLun\PixelStatistics\statisticswidget.cpp:384] 关闭像素分析
+[infom 2025-07-17 13:13:00][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:314] 打开校准界面
+[infom 2025-07-17 13:13:40][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-07-17 13:13:46][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-07-17 13:13:52][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:350] 打开像素分析
+[infom 2025-07-17 13:14:01][D:\Work\project\KunLun\KunLun\PixelStatistics\statisticswidget.cpp:384] 关闭像素分析
+[infom 2025-07-17 13:14:01][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:276] 程序关闭#####
+[infom 2025-07-17 13:14:03][D:\Work\project\KunLun\KunLun\main.cpp:127] ####启动程序####
+[infom 2025-07-17 13:14:04][D:\Work\project\KunLun\KunLun\Main\guide.cpp:114] PanGu sdk: 3.6.3.0
+[infom 2025-07-17 13:14:04][D:\Work\project\KunLun\KunLun\Main\guide.cpp:118] FuXi sdk: 1.9.6.5
+[infom 2025-07-17 13:14:06][D:\Work\project\KunLun\KunLun\Main\guide_set.cpp:58] 进入PanGu
+[infom 2025-07-17 13:14:08][D:\Work\project\KunLun\KunLun\Main\guide_set.cpp:331] init success: QList(0)
+[infom 2025-07-17 13:14:08][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:375] "获取系统类型:PANGU"
+[infom 2025-07-17 13:14:08][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:406] 获取[系统:  "PANGU" , 能级:  2 , 巨型帧:   , 探测器类型:  "PGD08PB" ]
+[infom 2025-07-17 13:14:09][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:435] 设置[energy: 1 ,pixelorder: 0 ,huge: "01" ]
+[infom 2025-07-17 13:14:11][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:1,number:5"
+[infom 2025-07-17 13:14:11][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:2,number:5"
+[infom 2025-07-17 13:14:11][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:3,number:0"
+[infom 2025-07-17 13:14:11][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:4,number:0"
+[infom 2025-07-17 13:14:11][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:115] "设置每块卡像素数，number:256"
+[infom 2025-07-17 13:14:11][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:610] "图像信息,block:32,frameheight:512, framewidth:2560, bytesperpixel:2,bitrange:16"
+[infom 2025-07-17 13:14:11][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:626] pixel pitch: 255
+[infom 2025-07-17 13:14:11][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1632] [create: "id:0,systype:20,width:2560,height:512,pixelnum:2560,instance:0" ]
+[infom 2025-07-17 13:14:11][D:\Work\project\KunLun\KunLun\ImageDisplay\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2025-07-17 13:14:11][D:\Work\project\KunLun\KunLun\ImageDisplay\imagewindow.cpp:886] 壳体： "1515151515151515151515151515151515151515151515151515151515151515"
+[infom 2025-07-17 13:14:11][D:\Work\project\KunLun\KunLun\Main\guide_set.cpp:391] Pangu进入主界面
+[infom 2025-07-17 13:14:15][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:314] 打开校准界面
+[infom 2025-07-17 13:14:50][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1306] 打开增益界面
+[infom 2025-07-17 13:14:51][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:217] mOptSettingPanGu 关闭
+[infom 2025-07-17 13:14:53][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-07-17 13:15:02][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:350] 打开像素分析
+[infom 2025-07-17 13:15:11][D:\Work\project\KunLun\KunLun\PixelStatistics\statisticswidget.cpp:384] 关闭像素分析
+[infom 2025-07-17 13:27:47][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-07-17 13:28:02][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1347] 操作设置界面
+[infom 2025-07-17 13:28:05][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:217] mOptSettingPanGu 关闭
+[infom 2025-07-17 13:28:31][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:350] 打开像素分析
+[infom 2025-07-17 13:28:33][D:\Work\project\KunLun\KunLun\PixelStatistics\statisticswidget.cpp:384] 关闭像素分析
+[infom 2025-07-17 13:28:42][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:361] 打开窗宽窗位
+[infom 2025-07-17 13:28:52][D:\Work\project\KunLun\KunLun\Windowing\windowing.cpp:84] 关闭窗宽窗位
+[infom 2025-07-17 13:28:56][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:276] 程序关闭#####
+[infom 2025-07-17 14:04:29][D:\Work\project\KunLun\KunLun\main.cpp:127] ####启动程序####
+[infom 2025-07-17 14:04:30][D:\Work\project\KunLun\KunLun\Main\guide.cpp:114] PanGu sdk: 3.6.3.0
+[infom 2025-07-17 14:04:30][D:\Work\project\KunLun\KunLun\Main\guide.cpp:118] FuXi sdk: 1.9.6.5
+[infom 2025-07-17 14:04:32][D:\Work\project\KunLun\KunLun\Main\guide_set.cpp:58] 进入PanGu
+[infom 2025-07-17 14:04:33][D:\Work\project\KunLun\KunLun\Main\guide_set.cpp:331] init success: QList(0)
+[infom 2025-07-17 14:04:33][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:375] "获取系统类型:PANGU"
+[infom 2025-07-17 14:04:33][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:406] 获取[系统:  "PANGU" , 能级:  2 , 巨型帧:   , 探测器类型:  "PGD08PB" ]
+[infom 2025-07-17 14:04:35][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:435] 设置[energy: 1 ,pixelorder: 0 ,huge: "01" ]
+[infom 2025-07-17 14:04:36][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:1,number:5"
+[infom 2025-07-17 14:04:36][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:2,number:5"
+[infom 2025-07-17 14:04:36][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:3,number:0"
+[infom 2025-07-17 14:04:36][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:4,number:0"
+[infom 2025-07-17 14:04:36][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:115] "设置每块卡像素数，number:256"
+[infom 2025-07-17 14:04:36][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:610] "图像信息,block:32,frameheight:512, framewidth:2560, bytesperpixel:2,bitrange:16"
+[infom 2025-07-17 14:04:36][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:626] pixel pitch: 255
+[infom 2025-07-17 14:04:36][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1632] [create: "id:0,systype:20,width:2560,height:512,pixelnum:2560,instance:0" ]
+[infom 2025-07-17 14:04:36][D:\Work\project\KunLun\KunLun\ImageDisplay\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2025-07-17 14:04:36][D:\Work\project\KunLun\KunLun\ImageDisplay\imagewindow.cpp:886] 壳体： "1515151515151515151515151515151515151515151515151515151515151515"
+[infom 2025-07-17 14:04:36][D:\Work\project\KunLun\KunLun\Main\guide_set.cpp:391] Pangu进入主界面
+[infom 2025-07-17 14:04:42][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:314] 打开校准界面
+[infom 2025-07-17 14:05:16][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-07-17 14:05:19][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:350] 打开像素分析
+[infom 2025-07-17 14:09:06][D:\Work\project\KunLun\KunLun\PixelStatistics\statisticswidget.cpp:384] 关闭像素分析
+[infom 2025-07-17 14:09:06][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:276] 程序关闭#####

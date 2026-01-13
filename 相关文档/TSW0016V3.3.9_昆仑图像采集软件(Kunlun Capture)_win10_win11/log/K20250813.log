@@ -1,0 +1,151 @@
+[infom 2025-08-13 09:06:53][D:\Work\project\KunLun\KunLun\main.cpp:127] ####启动程序####
+[infom 2025-08-13 09:06:55][D:\Work\project\KunLun\KunLun\Main\guide.cpp:114] PanGu sdk: 3.6.3.0
+[infom 2025-08-13 09:06:55][D:\Work\project\KunLun\KunLun\Main\guide.cpp:118] FuXi sdk: 1.9.6.5
+[infom 2025-08-13 09:06:56][D:\Work\project\KunLun\KunLun\Main\guide.cpp:59] 分析模式
+[infom 2025-08-13 09:06:56][D:\Work\project\KunLun\KunLun\ImageDisplay\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2025-08-13 09:07:18][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "C:/Users/MS2403/Desktop/TYM/图像/胡A/A10,18,11,21,28,22,39,17.tif"
+[infom 2025-08-13 09:07:21][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:361] 打开窗宽窗位
+[infom 2025-08-13 09:09:12][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "C:/Users/MS2403/Desktop/TYM/图像/胡A/A15,29,38,41,66,40,64,150,81.tif"
+[infom 2025-08-13 09:09:46][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "C:/Users/MS2403/Desktop/TYM/图像/B10,12,13,25,26,37,51,22.tif"
+[infom 2025-08-13 09:11:06][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "C:/Users/MS2403/Desktop/TYM/图像/B30,102,34,93,62,90,28,113,104,119,120,103,105.tif"
+[infom 2025-08-13 09:30:30][D:\Work\project\KunLun\KunLun\Windowing\windowing.cpp:84] 关闭窗宽窗位
+[infom 2025-08-13 09:30:30][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:276] 程序关闭#####
+[infom 2025-08-13 09:30:33][D:\Work\project\KunLun\KunLun\main.cpp:127] ####启动程序####
+[infom 2025-08-13 09:30:34][D:\Work\project\KunLun\KunLun\Main\guide.cpp:114] PanGu sdk: 3.6.3.0
+[infom 2025-08-13 09:30:34][D:\Work\project\KunLun\KunLun\Main\guide.cpp:118] FuXi sdk: 1.9.6.5
+[infom 2025-08-13 09:30:36][D:\Work\project\KunLun\KunLun\Main\guide_set.cpp:58] 进入PanGu
+[infom 2025-08-13 09:30:38][D:\Work\project\KunLun\KunLun\Main\guide_set.cpp:331] init success: QList(0)
+[infom 2025-08-13 09:30:38][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:375] "获取系统类型:PANGU"
+[infom 2025-08-13 09:30:38][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:406] 获取[系统:  "PANGU" , 能级:  2 , 巨型帧:   , 探测器类型:  "PGD08PB" ]
+[infom 2025-08-13 09:30:40][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:435] 设置[energy: 1 ,pixelorder: 0 ,huge: "01" ]
+[infom 2025-08-13 09:30:50][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:1,number:5"
+[infom 2025-08-13 09:30:50][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:2,number:5"
+[infom 2025-08-13 09:30:50][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:3,number:0"
+[infom 2025-08-13 09:30:50][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:4,number:0"
+[infom 2025-08-13 09:30:50][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:115] "设置每块卡像素数，number:256"
+[infom 2025-08-13 09:30:50][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:610] "图像信息,block:32,frameheight:768, framewidth:2560, bytesperpixel:2,bitrange:16"
+[infom 2025-08-13 09:30:50][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:626] pixel pitch: 255
+[infom 2025-08-13 09:30:50][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1632] [create: "id:0,systype:20,width:2560,height:768,pixelnum:2560,instance:0" ]
+[infom 2025-08-13 09:30:50][D:\Work\project\KunLun\KunLun\ImageDisplay\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2025-08-13 09:30:50][D:\Work\project\KunLun\KunLun\ImageDisplay\imagewindow.cpp:886] 壳体： "1515151515151515151515151515151515151515151515151515151515151515"
+[infom 2025-08-13 09:30:50][D:\Work\project\KunLun\KunLun\Main\guide_set.cpp:391] Pangu进入主界面
+[infom 2025-08-13 09:30:55][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:314] 打开校准界面
+[infom 2025-08-13 09:31:59][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1439] 高级保存： 0 , 0 ,img: 1 file: "C:/Users/MS2403/Desktop/TYM/图像/图像.tif"
+[infom 2025-08-13 09:31:59][D:\Work\project\KunLun\KunLun\PixelStatistics\tymdatastatistic.cpp:1390] 设置save type: 0
+[infom 2025-08-13 09:33:05][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 09:33:12][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 09:40:49][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 09:40:56][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 09:46:16][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 09:46:23][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 10:00:04][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 10:00:10][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 10:04:47][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 10:04:53][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 10:10:18][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 10:10:24][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 10:12:03][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 10:12:09][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 10:17:04][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 10:17:12][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 10:18:36][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 10:18:43][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 10:20:29][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 10:20:35][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 10:29:24][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 10:29:31][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 10:31:42][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 10:31:48][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 10:33:51][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 10:33:59][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 10:35:44][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 10:35:51][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 10:40:32][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 10:40:39][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 10:42:29][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 10:42:49][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 10:46:41][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 10:46:48][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 10:48:26][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 10:48:32][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 10:50:15][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 10:50:21][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 10:53:37][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 10:53:44][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 11:02:51][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 11:02:58][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 11:04:37][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 11:04:44][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 11:07:54][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 11:08:01][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 11:09:42][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 11:09:49][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 11:11:24][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 11:11:31][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 11:15:14][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 11:15:20][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 11:17:06][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 11:17:13][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 11:20:43][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 11:20:49][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 11:22:36][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 11:22:42][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 11:26:20][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 11:26:27][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 11:28:52][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 11:28:59][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 11:30:50][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 11:30:57][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 11:35:58][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 11:36:04][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 11:37:50][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 11:37:56][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 11:41:31][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 11:41:39][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 11:43:08][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 11:43:14][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 11:44:37][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 11:44:43][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 11:46:15][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 11:46:21][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 12:40:04][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:276] 程序关闭#####
+[infom 2025-08-13 15:58:44][D:\Work\project\KunLun\KunLun\main.cpp:127] ####启动程序####
+[infom 2025-08-13 15:58:45][D:\Work\project\KunLun\KunLun\Main\guide.cpp:114] PanGu sdk: 3.6.3.0
+[infom 2025-08-13 15:58:45][D:\Work\project\KunLun\KunLun\Main\guide.cpp:118] FuXi sdk: 1.9.6.5
+[infom 2025-08-13 15:58:47][D:\Work\project\KunLun\KunLun\Main\guide_set.cpp:58] 进入PanGu
+[infom 2025-08-13 15:58:49][D:\Work\project\KunLun\KunLun\Main\guide_set.cpp:331] init success: QList(0)
+[infom 2025-08-13 15:58:49][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:375] "获取系统类型:PANGU"
+[infom 2025-08-13 15:58:49][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:406] 获取[系统:  "PANGU" , 能级:  2 , 巨型帧:   , 探测器类型:  "PGD08PB" ]
+[infom 2025-08-13 15:58:50][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:435] 设置[energy: 1 ,pixelorder: 0 ,huge: "01" ]
+[infom 2025-08-13 15:58:55][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:1,number:5"
+[infom 2025-08-13 15:58:55][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:2,number:5"
+[infom 2025-08-13 15:58:55][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:3,number:0"
+[infom 2025-08-13 15:58:55][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:96] "设置卡片数量 linkid:4,number:0"
+[infom 2025-08-13 15:58:55][D:\Work\project\KunLun\KunLun\PANGU\ordersr.cpp:115] "设置每块卡像素数，number:256"
+[infom 2025-08-13 15:58:55][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:610] "图像信息,block:32,frameheight:768, framewidth:2560, bytesperpixel:2,bitrange:16"
+[infom 2025-08-13 15:58:55][D:\Work\project\KunLun\KunLun\PANGU\PanGu.cpp:626] pixel pitch: 255
+[infom 2025-08-13 15:58:55][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1632] [create: "id:0,systype:20,width:2560,height:768,pixelnum:2560,instance:0" ]
+[infom 2025-08-13 15:58:55][D:\Work\project\KunLun\KunLun\ImageDisplay\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2025-08-13 15:58:55][D:\Work\project\KunLun\KunLun\ImageDisplay\imagewindow.cpp:886] 壳体： "1515151515151515151515151515151515151515151515151515151515151515"
+[infom 2025-08-13 15:58:55][D:\Work\project\KunLun\KunLun\Main\guide_set.cpp:391] Pangu进入主界面
+[infom 2025-08-13 15:59:00][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:314] 打开校准界面
+[infom 2025-08-13 15:59:33][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1439] 高级保存： 0 , 0 ,img: 1 file: "C:/Users/MS2403/Desktop/TYM/图像/图像.tif"
+[infom 2025-08-13 15:59:33][D:\Work\project\KunLun\KunLun\PixelStatistics\tymdatastatistic.cpp:1390] 设置save type: 0
+[infom 2025-08-13 15:59:44][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 15:59:51][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 16:00:16][D:\Work\project\KunLun\KunLun\main.cpp:127] ####启动程序####
+[infom 2025-08-13 16:00:17][D:\Work\project\KunLun\KunLun\Main\guide.cpp:114] PanGu sdk: 3.6.3.0
+[infom 2025-08-13 16:00:17][D:\Work\project\KunLun\KunLun\Main\guide.cpp:118] FuXi sdk: 1.9.6.5
+[infom 2025-08-13 16:00:18][D:\Work\project\KunLun\KunLun\Main\guide.cpp:59] 分析模式
+[infom 2025-08-13 16:00:18][D:\Work\project\KunLun\KunLun\ImageDisplay\colormapper.cpp:68] 颜色表大小:  65536
+[infom 2025-08-13 16:00:29][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1210] 打开文件： "C:/Users/MS2403/Desktop/TYM/图像/图像_30.tif"
+[infom 2025-08-13 16:00:31][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:361] 打开窗宽窗位
+[infom 2025-08-13 16:00:49][D:\Work\project\KunLun\KunLun\Windowing\windowing.cpp:84] 关闭窗宽窗位
+[infom 2025-08-13 16:00:49][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:276] 程序关闭#####
+[infom 2025-08-13 16:03:34][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 16:03:44][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 16:05:43][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 16:05:52][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 16:07:07][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: true
+[infom 2025-08-13 16:07:16][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:1288] 开始/停止: false
+[infom 2025-08-13 16:08:32][D:\Work\project\KunLun\KunLun\MainWindow\custommainwindow.cpp:276] 程序关闭#####
